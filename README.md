@@ -1,2 +1,2 @@
 # HelloWorld
-This is my hellow world to verify functionality
+This is my hello world to verify functionality
